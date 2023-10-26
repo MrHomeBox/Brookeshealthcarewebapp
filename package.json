@@ -1,0 +1,19 @@
+{
+  "name": "brookeshealthcarewebapp",
+  "version": "1.0.0",
+  "description": "Healthcare website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrHomeBox/Brookeshealthcarewebapp.git"
+  },
+  "author": "Micheal Chingono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrHomeBox/Brookeshealthcarewebapp/issues"
+  },
+  "homepage": "https://github.com/MrHomeBox/Brookeshealthcarewebapp#readme"
+}
